@@ -8,6 +8,7 @@ public class Main_m {
 	        int n = 5;
 	        int result = Array_ex.secondHighest(arr,n);
 	        System.out.println(result);
+	        System.out.println("Second Highest number is = "+result);
 	}
 
 }
