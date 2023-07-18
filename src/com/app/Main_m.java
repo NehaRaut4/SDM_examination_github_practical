@@ -9,6 +9,13 @@ public class Main_m {
 	        int result = Array_ex.secondHighest(arr,n);
 	        System.out.println(result);
 	        System.out.println("Second Highest number is = "+result);
+	        
+//adding another array
+	        
+	        int arr1[] = {50,97,78,14,34};
+	        int n1 = 3;
+	        int result1 = Array_ex.secondHighest(arr1, n1);
+	        System.out.println("Second Highest number in array1 is = "+result1);
 	}
 
 }
